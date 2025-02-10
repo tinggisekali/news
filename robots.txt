@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://tinggisekali.github.io/news/sitemaps.xml
